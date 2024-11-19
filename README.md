@@ -48,7 +48,7 @@ I'm a **DevOps Engineer** with 3+ years of experience in cloud infrastructure, a
 ## 🌐 **Connect with Me**
 
 - [LinkedIn](https://www.linkedin.com/in/maurya-shivam/)
-- [Portfolio](https://shivaa45.github.io/)
+- [Portfolio](https://shivaa45.github.io)
 
 <!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
