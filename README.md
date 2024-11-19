@@ -1,4 +1,4 @@
-<--## Hi there 👋
+<!--## Hi there 👋
 
 
 **Shivaa45/Shivaa45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Hi there! 👋 I'm [Your Name]
 I'm a DevOps Engineer with 3+ years of experience in cloud infrastructure, automation, and CI/CD. My focus is on optimizing workflows and ensuring reliable deployments using a variety of DevOps tools and cloud platforms.
 
