@@ -50,4 +50,7 @@ I'm a **DevOps Engineer** with 3+ years of experience in cloud infrastructure, a
 - [LinkedIn](your-linkedin-profile-url)
 - [Portfolio](your-portfolio-or-blog-url)
 
+<!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+-->
